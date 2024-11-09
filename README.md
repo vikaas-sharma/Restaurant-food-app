@@ -8,6 +8,10 @@
 ## Project Overview
 The Restaurant Food App is a dynamic web application designed to facilitate the management and ordering of food from a restaurant. This application aims to enhance the user experience by providing an intuitive interface for browsing menus, placing orders, and managing user accounts.
 
+## Database Schema
+![diagram-export-9-11-2024-2_57_32-pm](https://github.com/user-attachments/assets/0315dfea-d6ef-4e96-a2d6-da2a820c26f0)
+
+
 ## Features
 
 - **User Authentication**: Secure login and registration system to ensure that only registered users can place orders and manage their profiles.
